@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# -*- coding:utf-8 -*-
-# Copyright (c) 2017 - Limber Cheng <cheng@limberence.com> 
-# @Time : 23/03/2018 17:19
-# @Author : Limber Cheng
-# @File : tiny-yolo-tl
-# @Software: PyCharm
 from keras.layers import Conv2D, LeakyReLU, MaxPooling2D,Flatten,Dense
 from keras.models import Sequential
 from keras.utils import plot_model
